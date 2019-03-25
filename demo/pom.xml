@@ -30,11 +30,11 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<dependency>
+		<!-- <dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
 			<version>3.2.8</version>
-		</dependency>
+		</dependency> -->
 	</dependencies>
 
 	<build>
